@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Melvin
 
 ### 👨‍💻 About Me
 I'm a full stack web developer based in the Philippines, specializing in building responsive and dynamic web applications using modern technologies.
@@ -16,12 +16,11 @@ I'm a full stack web developer based in the Philippines, specializing in buildin
   - MySQL
 
 ### 🌱 Currently Learning
-- [Any new technologies or frameworks you're exploring]
+- SolidJs
 
 ### 📫 Connect with Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: melvinbalajadia.dev@gmail.com
+- LinkedIn: [Melvin Balajadia](https://www.linkedin.com/in/mlvnn)
 
 ### 🚀 Projects
 Here are a few projects I've worked on:
@@ -31,6 +30,6 @@ Here are a few projects I've worked on:
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvin-balajadia&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Feel free to reach out or explore my projects. 
