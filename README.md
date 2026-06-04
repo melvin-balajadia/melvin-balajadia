@@ -1,26 +1,70 @@
-# 👋 Hi there, I'm Melvin
+<div align="center">
 
-### 👨‍💻 About Me
-I'm a full stack web developer based in the Philippines, specializing in building responsive and dynamic web applications using modern technologies.
+# Hi, I'm Melvin 👋
 
-### 🛠️ Skills
-- **Frontend:** 
-  - React.js
-  - TypeScript
-  - JavaScript
-  - Tailwind CSS
-- **Backend:** 
-  - Node.js
-  - Express.js
-- **Database:** 
-  - MySQL
+*Full Stack Web Developer · Philippines*
 
-### 🌱 Currently Learning
-- NextJs
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-melvin--balajadia-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mlvnn)
+[![Email](https://img.shields.io/badge/Email-melvinbalajadia.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:melvinbalajadia.dev@gmail.com)
 
-### 📫 Connect with Me
-- Email: melvinbalajadia.dev@gmail.com
-- LinkedIn: [Melvin Balajadia](https://www.linkedin.com/in/mlvnn)
+</div>
 
+---
 
-Thank you for visiting my profile! Feel free to reach out or explore my projects. 
+## About
+
+Full-stack web developer based in the Philippines, building responsive and dynamic web applications with a focus on clean architecture and developer experience. I work across the entire stack — from designing schemas and REST APIs to crafting polished, performant UIs.
+
+---
+
+## Tech Stack
+
+**Languages**
+```
+JavaScript · TypeScript
+```
+
+**Frontend**
+```
+React.js · Tailwind CSS · shadcn/ui · TanStack Query
+```
+
+**Backend**
+```
+Node.js · Express.js · RESTful APIs
+```
+
+**Database & ORM**
+```
+MySQL · Sequelize ORM · ChartDB
+```
+
+**Auth & Security**
+```
+JWT Authentication
+```
+
+**Tooling**
+```
+Docker · Git & GitHub · Postman · Figma
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to opportunities · Always building · Always learning*
+
+</div>
