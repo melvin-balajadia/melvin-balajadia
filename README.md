@@ -28,7 +28,7 @@ Outside of code, I help teams turn manual processes into digital forms and autom
 ## Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,php,react,vite,tailwind,wordpress,nodejs,express,mysql,supabase,sequelize,git,github,githubactions,docker,postman,figma&theme=dark&perline=9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js%2Cts%2Cphp%2Creact%2Cvite%2Ctailwind%2Cwordpress%2Cnodejs%2Cexpress%2Cmysql%2Csupabase%2Csequelize%2Cgit%2Cgithub%2Cgithubactions%2Cdocker%2Cpostman%2Cfigma&theme=dark&perline=9" />
   <img alt="JavaScript, TypeScript, PHP, React, Vite, Tailwind CSS, WordPress, Node.js, Express, MySQL, Supabase, Sequelize, Git, GitHub, GitHub Actions, Docker, Postman, Figma" src="https://skillicons.dev/icons?i=js,ts,php,react,vite,tailwind,wordpress,nodejs,express,mysql,supabase,sequelize,git,github,githubactions,docker,postman,figma&theme=light&perline=9" />
 </picture>
 
